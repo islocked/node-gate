@@ -1,0 +1,9 @@
+﻿{
+    "url":"http://d0.lzsb.xyz/game.php",
+	"type":1,
+    "id":1,
+    "server_id":1,
+    "game_type" : 1,
+    "key":"egdf7@42",
+    "desc":"id区别测试服或正式服 server_id表示服务器id 获得后台配置信息 key为获取配置信息key"
+}

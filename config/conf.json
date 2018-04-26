@@ -1,0 +1,12 @@
+{
+    "salt" : "qwertyuikl,mnbvcxser@#$%^&*()_)(*&",
+    "h5_recharge" : {
+
+        "appkey" : "efeb12ae9462b938f8f9ec4445efe5f2",
+        "h5" : {
+            "appId" : "5402017072754532",
+            "key" : "024c505c35c2bdacb303a5d6c0adff62",
+            "backurl" : "http://ml.hayloo.cn/cxmj/h5pay.html"
+        } 
+    }
+}
